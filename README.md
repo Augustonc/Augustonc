@@ -2,14 +2,14 @@
 
 
 <p align="center">
-Soy un Desarrollador de Software Argentino 🇦🇷. Soy un entusiasta de Linux, sistema que uso habitualmente.
+Soy un Desarrollador de Software Argentino 🇦🇷
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mí </h3> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🤔 &nbsp; En mi tiempo libre me gusta explorar nuevas tecnologías y desarrollar soluciones de software.
-- 🎓 &nbsp; Finalizo mi carrera formal de programador en diciembre de 2023, aun que seguiré creciendo toda mi vida, este mundo es emocionantemente grande y satisfactorio.
-- 💼 &nbsp; Trabajé para el Ministerio de Seguridad de Mendoza y finalicé dicha etapa para ser freelance.
+- 🤔 &nbsp; En mi tiempo libre me gusta explorar nuevas tecnologías y estar actualizado.
+- 🎓 &nbsp; Me recibí en la UTN Argentina de programador en marzo de 2024, aun que seguiré creciendo toda mi vida, este mundo es emocionantemente grande y satisfactorio.
+- 💼 &nbsp; Actualmente sin empresa.
 - 🌱 &nbsp; Quiero abocar la continuidad y crecimiento de mi estudio en la cyberseguridad y la IA.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
